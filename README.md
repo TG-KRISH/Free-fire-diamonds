@@ -9,4 +9,4 @@ pip2 install mechanize;
 git clone https://github.com/hckble/freefirehack;
 cd freefirehack;
 python2 FFhack.py
-# dapatkan 100 diamonds gratis tiap hari
+# dapatkan 1000 diamonds gratis tiap hari
