@@ -1,5 +1,5 @@
 # freefirehack
-100 diamonds per hari
+1000 diamonds per hari
 # cara install (salin script dibawah ke termux)
 pkg install git;
 pkg install toilet figlet;
