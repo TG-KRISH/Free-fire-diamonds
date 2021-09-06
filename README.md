@@ -10,7 +10,7 @@ then visit free fire you will see that you have 1000 diamonds on your dashboard 
 
 ### images of the users
 
-    ![image](https://user-images.githubusercontent.com/79579584/132209968-4a112e38-02ad-406d-b942-127f05becb33.png)
+![image](https://user-images.githubusercontent.com/79579584/132209968-4a112e38-02ad-406d-b942-127f05becb33.png)
 
 
 
